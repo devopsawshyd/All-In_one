@@ -1,0 +1,34 @@
+https://cloud.k21academy.com/oracle-weblogic-training/
+
+http://middlewareadmin-pavan.blogspot.com/2012/10/wlst-weblogic-scripting-tool.html
+
+refer https://www.youtube.com/watch?v=RGsOkS4U-Mo  UI
+
+Wblogc troubleshooting https://www.youtube.com/watch?v=XEieEJ2mIE8&list=PLuu0bqnk5zYr3aGw8iYVWtt_SpKJGjDE8
+
+https://oracle-base.com/articles/12c/weblogic-installation-on-oracle-linux-6-and-7-1221
+
+Wblogic application server - for deploemnt of applications
+https://www.youtube.com/watch?v=uxWlxhrwRkA -- for SSL certificates tools
+
+http://www.learn-it-with-examples.com/middleware/weblogic/common-tasks/weblogic-version-installed.html
+
+http://www.itbuzzpress.com/weblogic-tutorials/oracle-weblogic-wlst.html
+https://oracle-base.com/articles/misc/an-oracle-dbas-guide-to-weblogic-server#weblogic-configuration-adminserver
+http://middlewaremagic.com/weblogic/?page_id=8252
+
+Weblogic ->
+
+domain creation in two modes production and deployement 
+
+in production it asking pasword for every time and for every deployment and it is more secured
+development mode it is not more secure ans we can go gor autp deploy using autodeploy directory.
+
+diff vs 11g vs 12c:
+
+11g vs 12c java 1.7 and java 1.8
+Node manager is used to control managed servers of weblogic and node mamager home directpry is different from 11g and 12c
+concept of 12c in dynamic cluster to increae automatically when loas is increased.
+
+in 11g for creating doamin we need to run script under wlsserver/common/bin . it differs from 12 c we need to run from oracle_common/common/bin
+./config.sh --for creating domain
